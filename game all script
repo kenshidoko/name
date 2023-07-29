@@ -1,0 +1,22 @@
+---321 blast off sim
+if game.PlaceId == 5256165620 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/321blastoffsimobfus.lua"))()
+    ---superherotycoon
+elseif game.PlaceId ==  574407221 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/superhero%20tycoon"))()
+---strongman sim
+elseif game.PlaceId == 6766156863 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/strongman%20sim"))()
+---all of us are dead
+elseif game.PlaceId == 9759729519 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/aoad"))()
+---michael zombie
+elseif game.PlaceId == 8054462345 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/michael%20zom.txt"))()
+---muscle legend
+elseif game.PlaceId == 3623096087 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/muscle%20legend.lua"))()
+---zoe samurai
+elseif game.PlaceId == 6678877691 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/Zoe%20Samurai"))()
+end
