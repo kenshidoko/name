@@ -19,4 +19,7 @@ elseif game.PlaceId == 3623096087 then
 ---zoe samurai
 elseif game.PlaceId == 6678877691 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/Zoe%20Samurai"))()
+---laundry sim
+elseif game.PlaceId == 6305942109 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/laundry%20sim%20obfus"))()
 end
