@@ -22,4 +22,7 @@ elseif game.PlaceId == 6678877691 then
 ---laundry sim
 elseif game.PlaceId == 6305942109 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/laundry%20sim%20obfus"))()
+---afs x
+elseif game.PlaceId == 11545598432 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/afs%20x"))()
 end
