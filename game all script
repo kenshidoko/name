@@ -25,4 +25,7 @@ elseif game.PlaceId == 6305942109 then
 ---afs x
 elseif game.PlaceId == 11545598432 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/afs%20x"))()
+---blair
+elseif game.PlaceId == 6348640020 then
+loadstring("https://raw.githubusercontent.com/haris17890/name/main/blair"))()
 end
