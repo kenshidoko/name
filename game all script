@@ -11,7 +11,7 @@ elseif game.PlaceId == 6766156863 then
 elseif game.PlaceId == 9759729519 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/aoad"))()
 ---michael zombie
-elseif game.PlaceId == 8054462345 then
+elseif game.PlaceId == 9544666096 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/michael%20zom.txt"))()
 ---muscle legend
 elseif game.PlaceId == 3623096087 then
