@@ -8,7 +8,7 @@ elseif game.PlaceId ==  574407221 then
 elseif game.PlaceId == 6766156863 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/strongman%20sim"))()
 ---all of us are dead
-elseif game.PlaceId == 9759729519 then
+elseif game.PlaceId == 9759729519 or game.PlaceId == 10950394697 or game.PlaceId == 10950541730 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/aoad"))()
 ---michael zombie
 elseif game.PlaceId == 9544666096 then
