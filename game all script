@@ -31,4 +31,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/name/main/
 ---strength simulator
 elseif game.PlaceId == 13680982680 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/haris17890/notused/main/strength%20simulator.lua"))()
+---power punch sim
+elseif game.PlaceId == 13902036232 then
+loadstring(game:HttpGet(""))()
 end
